@@ -1,5 +1,5 @@
 ﻿User-agent: *
-Sitemap: https://evgeniya-agent-cds.itsinsta.site//sitemap.xml
+Sitemap: https://evgeniya-agent-cds.itsinsta.site/sitemap.xml
 Disallow: /main.html
 Disallow: /main
 Disallow: /stories.html
